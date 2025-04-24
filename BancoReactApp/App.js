@@ -111,7 +111,10 @@ class app extends Component {
 
           </View>
 
-          <TouchableOpacity style={styles.btnAbrirConta}>
+          <TouchableOpacity 
+        
+          style={styles.btnAbrirConta}>
+            
             <Text style={styles.Textbtn}>Abrir conta</Text>
           </TouchableOpacity>
 
